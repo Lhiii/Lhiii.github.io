@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2022
 client: Start Bootstrap
 category: Web Development
-description: 预测射击<br /> ![方向变量处理图](/img/robot_pic/1.png)<br />  在每个时刻，预测我们试图移动的绝对角度。我们保持垂直于波源的绝对角度是简单的轨道。一旦我们有了这个角度，只需将它传递给Wall Smoothing() 方法即可获得移动的角度。考虑最大加速度acceleration (1.0) 、减速度deceleration (2.0) 和最大转弯率maxTurning。<br />核心代码片段<br /> ![方向变量处理图](/img/robot_pic/2.png)<br />=运行截图<br /> ![方向变量处理图](/img/robot_pic/3.png)<br />![方向变量处理图](/img/robot_pic/4.png)<br />![方向变量处理图](/img/robot_pic/5.png)<br />![方向变量处理图](/img/robot_pic/6.png)<br />截图中看到目标机器人Target的位置在移动，同时LiuRobot2预测了目标机器人Target的位置，并用雷达指出预测位置。
+description: 预测射击<br /> ![方向变量处理图](img/robot_pic/1.png)<br />  在每个时刻，预测我们试图移动的绝对角度。我们保持垂直于波源的绝对角度是简单的轨道。一旦我们有了这个角度，只需将它传递给Wall Smoothing() 方法即可获得移动的角度。考虑最大加速度acceleration (1.0) 、减速度deceleration (2.0) 和最大转弯率maxTurning。<br />*核心代码片段<br /> ![核心代码](/img/robot_pic/2.png)<br />*运行截图<br /> ![运行截图1](/img/robot_pic/3.png)<br />![运行截图2](/img/robot_pic/4.png)<br />![运行截图3](/img/robot_pic/5.png)<br />![运行截图4](/img/robot_pic/6.png)<br />截图中看到目标机器人Target的位置在移动，同时LiuRobot2预测了目标机器人Target的位置，并用雷达指出预测位置。
 ---
