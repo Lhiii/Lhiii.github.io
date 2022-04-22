@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2022
 client: Start Bootstrap
 category: Web Development
-description: 预测射击<br /> aaa
+description: 预测射击<br /> ![方向变量处理图]({{ site.url }}/img/robot_pic/1.png)<br />  在每个时刻，预测我们试图移动的绝对角度。我们保持垂直于波源的绝对角度是简单的轨道。一旦我们有了这个角度，只需将它传递给Wall Smoothing() 方法即可获得移动的角度。考虑最大加速度acceleration (1.0) 、减速度deceleration (2.0) 和最大转弯率maxTurning。
 ---
